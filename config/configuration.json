@@ -1,0 +1,11 @@
+{
+    "mongo":{
+        "host" : "127.0.0.1",
+        "port":"xxxxxx",
+        "username":"xxxx",
+        "password": "xxxxx", 
+        "database_name": "xxxxxx",
+        "backup_dir":"/dump",
+        "restore_dir":"/dump/xxxxxx"
+    }
+}
